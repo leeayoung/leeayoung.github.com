@@ -1,25 +1,87 @@
 ---
 layout: post
-title:  "park ji sue!"
+title:  "lee a  young!"
 date:   2015-04-29 15:20:56
 categories: jekyll update
 ---
-st common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+큰 제목 
+------------  
+
+작은 제목 
+=============
+
+
+
+## 굵은 글씨 1 
+
+### 굵은 글씨 2 
+
+#### 굵은 글씨 3 
+
+##### 굵은 글씨 4 
+
+###### 굵은 글씨 5 
+
+
+*기울여쓰기(Italic)*
+
+**굵게쓰기(Bold)**
+
+
+
+
+*   바나나
+*   사과
+*   수박
+
+
+1.  banana
+2.  apple
+3.  watermelon
+
+
+
+- 목록 안에 목록
+    -  또다시 리스트가
+        *  한단계 더 아래!
+    -  한단계 위로!
+
+
+> 이것이 인용입니다.
+> 인용인용~
+> 인용~
+
+인라인 링크 :  [Google](http://www.google.com/)
+
+참조 링크 : [Google] [1].
+
+[1]: http://www.google.com/
+
+
+![Naver](http://img.naver.net/static/www/u/2013/0731/nmms_224940510.gif).
+
+
+표
+
+| 항목 1 | 항목 2 | 항목 3 | 항목 4 |
+| ---
+| 내용 11 | 내용 12 | 내용 13 | 내용 14 |
+| 내용 21 | 내용 22 | 내용 23 | 내용 24 |
+
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+//코드입니다.
+    #include<stdio.h>
+    int main (void)
+    {
+	printf("hello world\n");
+	return 0;
+    }
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+
+[Naver]:      http://www.naver.com
+>>>>>>> b7a9174aba34a171760c9d039ab4bce35d836889
