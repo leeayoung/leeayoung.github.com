@@ -4,14 +4,7 @@ title:  "Jo ah hyeon!"
 date:   2015-04-29 15:20:56
 categories: jekyll update
 ---
-<<<<<<< HEAD
-큰 제목
-========
-작은 제목
-----------
 
-
-=======
 큰 제목 
 ==========   
 
