@@ -7,3 +7,4 @@ categories: jekyll update
 
 쿡쿡하세요~ 쿡쿡!
 =================
+<title> 쿡쿡하세요~ 쿡쿡! |WIX </title>
