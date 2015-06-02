@@ -80,7 +80,7 @@ image_url: 'http://postfiles16.naver.net/20150415_143/lee__minjung_1429061913789
 
 
 
-![20150412_133745.jpg?type=w1](http://postfiles9.naver.net/20150415_24/lee__minjung_1429064864881MFweF_JPEG/20150412_133745.jpg?type=w1)
+![%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC.jpg](http://www.hgclinic.com/wp-content/uploads/2015/02/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC.jpg)
 
 ▲ 안심 스테이크!!!!!!!!!!!
 
