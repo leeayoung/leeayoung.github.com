@@ -6,7 +6,8 @@ categories: blog1
 image_url: 'http://www.purplepops.com/wp-content/uploads/2011/03/5553400024_782b71202e_o.jpg'
 ---
 
-
+**‘메이차이(maichai: 아름다운 음식)’**
+ 
 김포공항 국제선청사에 위치한 ‘메이차이(maichai: 아름다운 음식)’는 스타일이 살아 있는 100여 가지의 다양한 요리들을 맛볼 수 있는 퓨전 중식 레스토랑입니다
 
 
