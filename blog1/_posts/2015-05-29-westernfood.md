@@ -33,12 +33,6 @@ image_url: 'http://www.seogaandcook.com/images/main/0316_1.jpg'
 
 
 
-![7120200148_%ED%98%B8%EB%91%90%ED%86%B5%ED%8C%A5%EC%95%99%EA%B8%88%EB%B9%B5.jpg](http://bakery.homeplus.co.kr/Uploads/7120200148_%ED%98%B8%EB%91%90%ED%86%B5%ED%8C%A5%EC%95%99%EA%B8%88%EB%B9%B5.jpg)
-
-
-▲ 맨 처음으로 나온 빵!!
-
-모밀빵인가?ㅋㅋㅋㅋㅋ 부드럽고 소스 찍어먹으면 더 맛있어요
 
 
 
