@@ -66,10 +66,10 @@ image_url: 'http://postfiles16.naver.net/20150415_143/lee__minjung_1429061913789
 
 
 
-![20150412_133658.jpg?type=w1](http://postfiles8.naver.net/20150415_295/lee__minjung_142906486458551RDB_JPEG/20150412_133658.jpg?type=w1)
+![d0013015_4d301b0fab06b.jpg](http://pds21.egloos.com/pds/201101/14/15/d0013015_4d301b0fab06b.jpg)
 
 
-▲ 게살크림파스타!
+▲ 파스타!
 
 게살이 들어가 있고 아주 살짝 짭짜롬한 ㅋㅋㅋ
 
