@@ -3,7 +3,7 @@ title: 쿡쿡하세요~쿡쿡
 description: > # this means to ignore newlines until "baseurl:"
   I am migrating from a blog service provider to github, still trying out with Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yulu.github.io" # the base hostname & protocol for your site
+url: "http://leeayoung.github.io" # the base hostname & protocol for your site
 twitter_username: jissuetissue
 github_username:  leeayoung
 
